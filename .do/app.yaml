@@ -7,7 +7,7 @@ services:
   github:
     branch: master
     deploy_on_push: true
-    repo_clone_url: https://github.com/WFA-juliver/ubuntu-apache-cron.git
+    repo_clone_url: https://github.com/wfa-sample-org/test.git
   dockerfile_path: Dockerfile
   http_port:
     - 80
